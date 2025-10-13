@@ -1,9 +1,8 @@
 ---
 layout: home
-title: Ana Sayfa
 ---
 
-# Merhaba
+# Selam yoldaş
 
-Bu benim kişisel blog sayfam.  
-Tamamen GitHub Pages üzerinde, sıfır kurulumla çalışıyor.
+Bu benim küçük Sovyetim.  
+Tamamen GitHub Pages üzerinde ve sıfır kurulumla çalışıyor.
