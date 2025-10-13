@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Ana Sayfa
 ---
 
 # Selam yoldaş
