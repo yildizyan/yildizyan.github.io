@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bitmeyen Geceler"
-date: 2025-10-14 1:56:00 +0300
+date: 2025-10-14
 categories: genel
 ---
 
