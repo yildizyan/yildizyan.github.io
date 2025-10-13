@@ -4,6 +4,6 @@ title: Hakkımda
 permalink: /hakkimda/
 ---
 
-Ben AT Bey.  
-Bu sayfa GitHub Pages üzerinde yayınlanıyor.  
-Hiç Jekyll kurulumu yok — sadece sade Markdown!
+Ben yildizyan.  
+Bu sayfa GitHub Pages üzerinde yayınlanıyor  
+ve hiç Jekyll kurulumu yok — evet, dümdüz Markdown!
