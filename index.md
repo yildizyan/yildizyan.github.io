@@ -3,7 +3,7 @@ layout: home
 title: Ana Sayfa
 ---
 
-# Hoş geldin 👋
+# Merhaba
 
 Bu benim kişisel blog sayfam.  
 Tamamen GitHub Pages üzerinde, sıfır kurulumla çalışıyor.
