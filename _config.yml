@@ -1,3 +1,9 @@
 title: yildizyan's personal blog
 description: Basit, saf ve sessiz bir blog.
 theme: minima
+
+email: yildizyan@proton.me
+author: yildizyan
+minima:
+  social_links:
+    twitter: ru_powered
