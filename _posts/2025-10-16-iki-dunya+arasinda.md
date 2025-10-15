@@ -14,7 +14,7 @@ her gece biraz daha yalnızlığımızı hatırlatarak. Her bir ehemmiyetsiz hat
 Takaya lyubov...
 
 Katiplik, parmaklar ve cezalar... Yeni alternatifin yarattığı muvakkat heyecan, süreli on parmak testleri, ilk başarılı denemenin verdiği hafif bir gurur.
-Sanki Sovyetler yeniden kurulmuş, şimdiki tüm dertlerimiz sona ermiş, yerini deRubaşkalarına terk etmiş. Öğretmenlikten bu kadar uzak olduğumun yükselen haykırışları,
+Sanki Sovyetler yeniden kurulmuş, şimdiki tüm dertlerimiz sona ermiş, yerini de başkalarına terk etmiş. Öğretmenlikten bu kadar uzak olduğumun yükselen haykırışları,
 önemsiz bir ihtimalin bile bunu alevlendirmesiyle artık kontrolden çıkmış bir trenin halini almıştı şüphesiz.
 
 Palmira...
